@@ -51,7 +51,7 @@ audioformats:
 - [DMA leaks für Undetektierbares Cheaten]( https://twitter.com/x0rz/status/1093161836558630913/photo/1 )
    * [Landwirtschafts Simulator 19 esports Liga]( 
 https://www.giga.de/spiele/ls-19-landwirtschafts-simulator-19/news/farming-simulator-league-die-vollwertige-esports-liga-zum-landwirtschafts-simulator-19/ )
-- [Threema für Bundesbern]( https://www.inside-it.ch/articles/53634 )
+- [Threema für Bundesbernd]( https://www.inside-it.ch/articles/53634 )
 - [Nix für Debian paketiert]( https://ftp-master.debian.org/new/nix_2.2.1-2.html )
 - [64-bit requirement Android APPs]( https://android-developers.googleblog.com/2019/01/get-your-apps-ready-for-64-bit.html )
 - [Opportunity did not answer NASA’s final call, and it’s now lost to us]( 
